@@ -1,0 +1,13 @@
+C:\Users\Администратор\Desktop\Проекты\5.31\bin\Debug\netcoreapp3.1\5.31.exe
+C:\Users\Администратор\Desktop\Проекты\5.31\bin\Debug\netcoreapp3.1\5.31.deps.json
+C:\Users\Администратор\Desktop\Проекты\5.31\bin\Debug\netcoreapp3.1\5.31.runtimeconfig.json
+C:\Users\Администратор\Desktop\Проекты\5.31\bin\Debug\netcoreapp3.1\5.31.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Проекты\5.31\bin\Debug\netcoreapp3.1\5.31.dll
+C:\Users\Администратор\Desktop\Проекты\5.31\bin\Debug\netcoreapp3.1\5.31.pdb
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.dll
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.pdb
+C:\Users\Администратор\Desktop\Проекты\5.31\obj\Debug\netcoreapp3.1\5.31.genruntimeconfig.cache
